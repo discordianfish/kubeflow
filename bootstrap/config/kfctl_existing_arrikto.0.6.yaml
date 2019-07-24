@@ -103,7 +103,7 @@ spec:
   repos:
   - name: manifests
     root: manifests-master
-    uri: https://github.com/kubeflow/manifests/archive/master.tar.gz
+    uri: https://github.com/kubeflow/manifests/archive/v0.6.1-rc.0.tar.gz
   - name: kubeflow
     root: kubeflow-master
-    uri: https://github.com/kubeflow/kubeflow/archive/master.tar.gz
+    uri: https://github.com/kubeflow/kubeflow/archive/v0.6.1-rc.0.tar.gz
